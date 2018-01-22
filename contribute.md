@@ -6,7 +6,7 @@ permalink: /contribute/
 
 ## External Content
 
-See something on the web that you think should be in the Tesla service manual? Open an [issue](https://github.com/freerobby/tesla-service-manual/issue) linking to it. If you know the author, please reach out and request their permission. Otherwise we'll reach out, and we'll import the content if the author allows it.
+See something on the web that you think should be in the Tesla service manual? Open an [issue](https://github.com/freerobby/tesla-service-manual/issues) linking to it. If you know the author, please reach out and request their permission. Otherwise we'll reach out, and we'll import the content if the author allows it.
 
 ## Original Content
 
