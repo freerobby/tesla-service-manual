@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to the unofficial Tesla service manual. This is a community source of information about how to maintain and repair your Tesla Roadster/S/X/3.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Goals
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+* Accumulate community knowledge in one place, where everyone can find it.
+* Make it as easy for owners to share maintenance and modification insights with other owners.
+* Encourage DIY and third party servicing of Tesla vehicles, so that owners are less dependent on Tesla.
+* Give owners confidence to work on their vehicles within their abilities.
 
+## Anti-goals
 
-[jekyll-organization]: https://github.com/jekyll
+This manual will not help you:
+
+* Acquire proprietary Tesla information
+* Subvert Tesla vehicle security, including achieving root access to a vehicle.
