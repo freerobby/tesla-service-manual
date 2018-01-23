@@ -12,4 +12,4 @@ See something on the web that you think should be in the Tesla service manual? O
 
 Have something to contribute to the Tesla service manual? Fork [the manual on Github](https://github.com/freerobby/tesla-service-manual), make your changes, and then submit a [pull request](https://github.com/freerobby/tesla-service-manual/pulls).
 
-If you don't know what forking means or how to use Markdown, you can just submit your content in the pull request, and a maintainer will move it into the site for you.
+If you don't know what forking means or how to use Markdown, you can just submit your content in an [issue](https://github.com/freerobby/tesla-service-manual/issues), and a maintainer will move it into the site for you.
