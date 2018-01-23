@@ -40,6 +40,10 @@ Unfortunately, to receive any feedback from the car about horizontal calibration
 
 Note: it can take up to 50 miles of driving for Autopilot to self-calibrate after a radar calibration. In such cases you will continue to see the DAFU message for some time even after the radar is properly adjusted.
 
+### Gasket Removal (Recommended)
+
+If your radar still has a beauty gasket around it, and you drive in subfreezing temperatures, it is recommended that you remove it. Instructions can be found [here]({% post_url 2018-01-22-front-radar-beauty-gasket-removal %}).
+
 ## References and Citations
 
 I originally posted this information in response to a thread on TMC. It can be found [here](https://teslamotorsclub.com/tmc/posts/2496658).
