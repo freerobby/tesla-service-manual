@@ -25,7 +25,7 @@ Removing a door handle assembly is necessary to replace a broken microswitch or 
 
 1. [Remove interior door panel]({% post_url 2018-01-22-remove-interior-door-panel %}).
 2. Option A: [Remove window]({% post_url 2018-01-22-window-removal %}).
-Option B: Retract the exterior handle into the assembly using the adjustment screw. This provides the necessary clearance to remove the assembly without having to remove the window.[1]
+Option B: Retract the exterior handle into the assembly using the adjustment screw. This provides the necessary clearance to remove the assembly without having to remove the window.[^1]
 3. Use T20 screwdriver to remove perimeter screws on the door. Let the door controller hang below the opening once removed. Access door through the covering.
 4. Remove the wind barriers from the door assembly. Replace with new ones upon reinstallation if possible so they don't fall off.
 5. Remove the top-front nut via the circular access port with a 10mm socket and extension.

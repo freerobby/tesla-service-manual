@@ -48,7 +48,7 @@ If you have a door handle that won't present, chances are it has a broken paddle
 11. Repeat steps 2-6 in reverse, tidying up the wires as you go.
 12. Lock and unlock the car to ensure your door handle works again. Reverse step 1 after verifying.
 
-Note: for rear door handles, you must reinstall the handle assembly from inside the vehicle with the window fully raised in order to secure the top nut.[1]
+Note: for rear door handles, you must reinstall the handle assembly from inside the vehicle with the window fully raised in order to secure the top nut.[^1]
 
 ## References and Citations
 
