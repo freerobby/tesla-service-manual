@@ -22,9 +22,7 @@ If you have a door handle that won't present, chances are it has a broken paddle
 
 * 10mm socket with extension
 * 10mm wrench
-* T30 Torx screwdriver
 * T25 Torx screwdriver
-* T20 Torx screwdriver
 * Small wirecutter or scissors to snip wire ties
 * LED headlamp (optional, to see better within door assembly)
 * Masking tape
