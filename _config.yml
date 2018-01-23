@@ -16,7 +16,9 @@
 title: Unofficial Tesla Service Manual
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Tesla community's Tesla Service Manual
+  The community Tesla Service Manual
+disclaimer: This site is for informational purposes only. Content is provided “as is.” No warranty is expressed or implied. You are responsible for everything you do to your car.
+
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

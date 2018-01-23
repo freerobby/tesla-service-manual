@@ -19,7 +19,3 @@ This manual will not help you:
 
 * Acquire proprietary Tesla information
 * Subvert Tesla vehicle security, including achieving root access to a vehicle.
-
-## Disclaimer
-
-This site is for informational purposes only. Content is provided "as is" and no warranty is expressed or implied. You are responsible for everything you do to your car.
