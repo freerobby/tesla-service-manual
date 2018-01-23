@@ -28,7 +28,6 @@ disqus:
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
 
 google_analytics: "UA-112879018-1"
 
